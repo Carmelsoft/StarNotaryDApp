@@ -12,5 +12,5 @@ ERC-721 Token Name : StephenRoth
 ERC-721 Token Symbol : SBR
  ```
  ```
- “Token Address” on the Rinkeby Network : 0xce92A806DD9F72ff0E81Ec7ADa7860272aC5c42A
+ Contract or Token Address on the Rinkeby Network : 0xce92A806DD9F72ff0E81Ec7ADa7860272aC5c42A
 ```
